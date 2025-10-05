@@ -11,3 +11,7 @@ I'm an aspiring cybersecurity intern practicing fundamentals and documenting pro
 ## Today
 - Started LinkedIn + GitHub
 - Watching networking basics videos
+
+## 2025-10-05
+- Installed Termux
+- Ran commands: whoami, uname -a, ip addr, curl ifconfig.me, ping
